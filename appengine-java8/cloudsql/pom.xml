@@ -37,7 +37,7 @@
      project:region:instance for Cloud SQL 2nd Generation or
      project:instance        for Cloud SQL 1st Generation
 -->
-    <INSTANCE_CONNECTION_NAME></INSTANCE_CONNECTION_NAME>
+    <INSTANCE_CONNECTION_NAME/>
     <user>root</user>
     <password>myPassword</password>
     <database>sqldemo</database>
@@ -79,7 +79,7 @@
       <groupId>com.google.cloud.sql</groupId>
       <!-- If using MySQL 6.x driver, use mysql-socket-factory-connector-j-6 instead -->
       <artifactId>mysql-socket-factory</artifactId>
-      <version>1.0.5</version>
+      <version>1.11.0</version>
     </dependency>
     <!-- [END dependencies] -->
   </dependencies>
