@@ -38,12 +38,12 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>20.0</version>
+      <version>32.0.0-android</version>
     </dependency>
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-video-intelligence</artifactId>
-      <version>0.32.0-beta</version>
+      <version>1.0.0</version>
     </dependency>
     <!-- [END dependencies] -->
 
